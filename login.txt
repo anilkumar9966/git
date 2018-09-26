@@ -1,0 +1,9 @@
+ hi i am anilkumar i have a 4 yrs of exp in IT indu .
+currently im wrkng in atos technology as a devops engg.
+current in our project we are using these tool
+  source code managenent like git
+  build tool like a maven 
+  ci & cd like jenkins
+  containezation purpose like docker
+
+
