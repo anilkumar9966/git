@@ -1,0 +1,8 @@
+ in project i need to create a branch and merge it 
+ config the maven repo and pom.xml
+ we need to config project in jenkins for testing build and depolyment purpose 
+ we need to bring up master slave concept for impore the jenkines job.
+  we create a contaner for depolyement and testing .
+
+ we hlep to devp team to merage and push 
+ we need to check git repository.
